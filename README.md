@@ -19,5 +19,7 @@ The algorithm of this project works by first inputting the dataset in the reposi
 
 ## Resources
 
-[The dataset used in this projec](https://www.kaggle.com/datasets/virtualdvid/oregon-wildlife)
+[The dataset used in this project](https://www.kaggle.com/datasets/virtualdvid/oregon-wildlife)
+
+
 [Jetson-inference](https://github.com/dusty-nv/jetson-inference/tree/master)
