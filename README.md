@@ -23,3 +23,5 @@ The algorithm of this project works by first inputting the dataset in the reposi
 
 
 [Jetson-inference](https://github.com/dusty-nv/jetson-inference/tree/master)
+
+[Video Overview](https://drive.google.com/file/d/1YCulXQJiCaDrzmKgRyzYPwj6JUypCwGF/view?usp=sharing)
