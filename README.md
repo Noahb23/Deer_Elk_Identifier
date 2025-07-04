@@ -2,7 +2,7 @@
 
  This AI can inform the user for which is which, when the user sees a deer or elk in the wild. This is very useful, as it can help people who are not very informed on these animals to learn more about them and help define these animals. This can be used by anyoone, from those who don't know much about these animals, to researchers, who are studying the animals for research purposes. There are also fun facts of the animal recognized that appear in the terminal as well.
 
-![add image descrition here](direct image link here)
+![Deer Image](https://github.com/Noahb23/Deer_Elk_Identifier/blob/45dd9b6463da1ffc2cc9c3bac8bdad44d65751f2/DeerTest.PNG)
 
 ## The Algorithm
 
